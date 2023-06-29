@@ -1,16 +1,14 @@
 # Ivan Abrashin
+### junior frontend developer/digital designer
+
 
 ## Contacts
 
-**Location:** Almaty, Khazahstan
-
-**Phone:** +7 778-869-55-71
-
-**Email:** ivanshinra8@gmail.com
-
-**LinkedIn** linkedin.com/in/ivan-abrashin
-
-**GitHub:** ivanshinra
+**Location:** Almaty, Khazahstan  
+**Phone:** +7 778-869-55-71  
+**Email:** ivanshinra8@gmail.com  
+**LinkedIn** linkedin.com/in/ivan-abrashin  
+**GitHub:** ivanshinra  
 
 ## About me
 Hello and nice to meet you! I have been working in the web for over 8 years.
@@ -27,7 +25,7 @@ At the moment I am the designer of DEKART GROUP (https://dkrt.group/) in the pas
 ## Code Examples
 
 ## Education
-**University:** Samara State University of Social Sciences and Education
+**University:** Samara State University of Social Sciences and Education  
 **Courses:**
 
 ## Languages
