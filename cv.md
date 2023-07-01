@@ -35,3 +35,5 @@ Ui/UX designer in [DKRT.group](https://dkrt.group/)
 ## Languages
 - **English** - B1 
 - **Russian** - native speaker
+___
+### Thanks for watching!
