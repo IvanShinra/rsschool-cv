@@ -23,10 +23,14 @@ At the moment I am the designer of DEKART GROUP (https://dkrt.group/) in the pas
 * Tilda Publishing
 
 ## Code Examples
-
+```
+name = input("Your name: ")
+print("Hello, ", name, "!")
+```
+## Experience  
+Ui/UX designer in [DKRT.group](https://dkrt.group/)
 ## Education
-**University:** Samara State University of Social Sciences and Education  
-**Courses:**
+**University:** Samara State University of Social Sciences and Education
 
 ## Languages
 - **English** - B1 
