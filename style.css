@@ -1,0 +1,249 @@
+body {
+    padding-top: 110px;
+    font-family: 'Inter', sans-serif;
+    background: #001C40;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+* {
+    box-sizing: border-box;
+  }
+nav {
+    background-color: #405570;
+    display: flex;
+    width: 235px;
+    padding: 10px 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.header_info {
+    display: flex;
+    width: 745px;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 20px;
+}
+.head_links {
+    display: flex;
+    gap: 20px;
+}
+
+
+.header_title {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    text-align: center;
+    align-self: stretch;
+    background-color: #002451;
+}
+  h1 {
+    color: #CCC;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+  }
+  h2 {
+    color: #CCC;
+    text-align: center;
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    text-transform: uppercase;
+  }
+  .nav-link {
+    color: #CCC;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: uppercase;
+    line-height: 30px;
+  }
+
+.contacts_info {
+    display: flex;
+    align-items: flex-start;
+    gap: 120px;
+    padding-top: 20px;
+}
+.containter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
+
+.test__col-1 {
+    background: #001C40;
+    width: 235px;
+}
+
+.test__col-2 {
+    background: #001C40;
+    width: 100%;
+}
+.test__col-3 {
+    background: #001C40;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.test__image {
+    background: #fff;
+    height: 290px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.test__nav {
+    background: #405570;
+    display: flex;
+    padding: 10px 40px;
+    gap: 10px;
+}
+.test__content {
+    background: #001C40;
+    height: 290px;
+    border-bottom: 1px solid #FF9DA4;
+}
+.info {
+    background: #00346E;
+    display: inline-flex;
+    padding: 30px 10px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px;
+    position: sticky;
+    top: 0;
+}
+.info_block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+.info_text {
+    display: flex;
+    width: 215px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.main__info {
+    background: #002451;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 60px;
+}
+.block__info {
+    display: flex;
+    padding: 10px 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    align-self: stretch;
+    border-top: 1px solid #cccccc;
+}
+.block__info ul {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    color: #fff;
+}
+h2 {
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+.text_links {
+    color: #FF9DA4;
+    font-family: Inter;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+
+}
+.small_text_pink {
+    color: #FF9DA4;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+}
+.small_text_green {
+    color: #A9F1A1;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.small_text_grey {
+    color: #CCC;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.white {
+    color:#fff
+}
+.pink {
+    color: #FF9DA4;
+}
+.text {
+    color: #CCC;
+    font-family: Inter;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+code {
+    font-family: Consolas,"courier new";
+    color: gray;
+    background-color: #fff;
+    padding: 10px;
+  }
+
+
+.footer .content {
+    background: #002451;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
